@@ -1,14 +1,12 @@
 [user]
-	name = Aaron Kuehler
-	email = aaron.kuehler@gmail.com
+	name = Odin-Niflheim 
+	email = odin@apprenaissance.com 
 [core]
-	editor = emacs
 	excludesfile = ~/.gitignore
 [color]
 	ui = true
 [alias]
 	co  = checkout
 	cb  = checkout -b
-	crb = checkout --track -b
 	db  = branch -d
 	rclone = clone --recursive
